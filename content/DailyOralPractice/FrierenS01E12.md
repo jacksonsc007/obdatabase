@@ -44,12 +44,35 @@ I suppose so.
 [[It is nothing wrong]]
 
 ---
+Audacity. The measly ten copper coins is all the king could part with?
+What a cheapskate.
+I am not surprised. Many heroes have tried and failed to defeat the daemon king over the years. You can't fund every adventurer.
+
+>真是无耻！区区十个铜板，这就是国王能拿出来的全部？  
+  真够吝啬的。  
+  我并不意外。这么多年来，许多英雄都曾尝试击败魔神王，但都失败了。你不可能资助每一位冒险者。
 
 ![[frieren20250919_065240.mp4]]
 
+---
+
 ![[frieren20250919_065225.mp4]]
 
-![[frieren20250919_065212.mp4]]
+---
+out cold:
+	completely unconscious
+	完全失去知觉的
 
 ![[frieren20250919_065119.mp4]]
 
+
+
+![[frieren20250922_073708.mp4]]
+
+![[frieren20250922_071119.mp4]]
+
+![[frieren20250922_071017.mp4]]
+
+![[frieren20250922_070815.mp4]]
+
+![[frieren20250922_070736.mp4]]
