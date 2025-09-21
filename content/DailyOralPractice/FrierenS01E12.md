@@ -1,6 +1,5 @@
-
----
 # grow up to be / stay lost
+
 But that'll never happen if we don't keep moving. If you're wondering about the brat, he grew up to become a fake priest who stays lost in his cups.
 
 > 但如果一直停滞不前，那永远不会发生。如果你在好奇那个小鬼后来怎么样了，他长大后成了个假牧师，整天醉生梦死。
