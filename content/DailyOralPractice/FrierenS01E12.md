@@ -76,3 +76,52 @@ out cold:
 ![[frieren20250922_070815.mp4]]
 
 ![[frieren20250922_070736.mp4]]
+
+
+
+---
+![[frieren20250923_060701.mp4]]
+
+
+---
+![[frieren20250923_061030.mp4]]
+
+---
+![[frieren20250923_060922.mp4]]
+
+---
+![[frieren20250923_060833.mp4]]
+
+---
+The lord of the mountains **has been an** especially unruly pain as of late.
+
+**中文翻译：**  
+山之领主近来一直饱受异常狂躁的痛苦折磨。
+![[frieren20250923_061830.mp4]]
+
+---
+
+
+![[frieren20250923_061255.mp4]]
+
+> [!So CUTE]+
+> ![[frieren20250923_061235.mp4]]
+
+![[frieren20250924_055930.mp4]]
+
+![[frieren20250924_062715.mp4]]
+
+![[frieren20250924_062641.mp4]]
+
+![[frieren20250924_061240.mp4]]
+
+![[frieren20250924_061219.mp4]]
+
+![[frieren20250924_061101.mp4]]
+
+![[frieren20250924_061013.mp4]]
+
+![[frieren20250924_060521.mp4]]
+
+> [!NOTE]+
+> ![[frieren20250924_060325.mp4]]
