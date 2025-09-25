@@ -153,3 +153,17 @@ The lord of the mountains **has been an** especially unruly pain as of late.
 
 
 
+![[frieren20250926_065431.mp4]]
+
+![[frieren20250926_065333.mp4]]
+
+![[frieren20250926_065237.mp4]]
+
+![[frieren20250926_065154.mp4]]
+
+![[frieren20250926_065051.mp4]]
+
+![[frieren20250926_064933.mp4]]
+
+
+
