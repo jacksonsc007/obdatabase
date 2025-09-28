@@ -1,4 +1,4 @@
-# grow up to be / stay lost
+### grow up to be / stay lost
 
 But that'll never happen if we don't keep moving. If you're wondering about the brat, he grew up to become a fake priest who stays lost in his cups.
 
@@ -10,6 +10,7 @@ But that'll never happen if we don't keep moving. If you're wondering about the 
 [[grow up to]]
 
 ---
+### prove him wrong
 I figured if I proved him wrong, I'd have the last laugh. So here I am.
 One of these days, I'll hold the real hero sword in my hand (? hands) and use it to defeat the daemon king.
 
@@ -19,6 +20,7 @@ One of these days, I'll hold the real hero sword in my hand (? hands) and use it
 [[prove him wrong]]
 
 ---
+### only ever
 That's what made you choose this path in life?
 Not quite. See there was this annoying brat named Heiter at the village's orphanage. He kept telling me I'd only ever be a fake hero because I wielded a fake sword. He was such a pain.
 
@@ -33,7 +35,7 @@ Not quite. See there was this annoying brat named Heiter at the village's orphan
 ![[frieren20250919_065426.mp4]]
 
 ---
-
+### there is nothing wrong
 It's no problem. We'll earn money to cover our expenses along the way. It's ( x. There is) nothing wrong with that approach. It's part of the adventure. 
 I suppose so.
 
@@ -44,7 +46,8 @@ I suppose so.
 [[It is nothing wrong]]
 
 ---
-Audacity. The measly ten copper coins is all the king could part with?
+### tried and failed
+Audacity. A measly ten copper coins is all the king could part with?
 What a cheapskate.
 I am not surprised. Many heroes have tried and failed to defeat the daemon king over the years. You can't fund every adventurer.
 
@@ -55,6 +58,7 @@ I am not surprised. Many heroes have tried and failed to defeat the daemon king 
 ![[frieren20250919_065240.mp4]]
 
 ---
+I'd better do it.
 
 ![[frieren20250919_065225.mp4]]
 
@@ -65,16 +69,28 @@ out cold:
 
 ![[frieren20250919_065119.mp4]]
 
+---
+We spotted a smashed up house on our way in.
+The lord of the mountains is to blame.
+![[frieren20250928_064817.mp4]]
 
+---
 
-![[frieren20250922_073708.mp4]]
+So there really is a village this deep into the mountains.
 
 ![[frieren20250922_071119.mp4]]
 
+---
+For a moment I though I'd freeze to death, but the blizzard is settling down.
 ![[frieren20250922_071017.mp4]]
 
+---
+You must be tired from carrying her this whole time.
+You rest now. I'll take over.
 ![[frieren20250922_070815.mp4]]
 
+---
+I was afraid you'd never wake up. 
 ![[frieren20250922_070736.mp4]]
 
 
@@ -161,9 +177,48 @@ The lord of the mountains **has been an** especially unruly pain as of late.
 
 ![[frieren20250926_065154.mp4]]
 
-![[frieren20250926_065051.mp4]]
+---
+斯塔克先生，您有什么想让我帮您买的吗？ 
+等等，什么？ 
+今天是您的生日，不是吗？ 
+哦，好像是的。 但这和你给我买东西有什么关系？ 
+别装傻了。 我想给您买个礼物。 
+什么？你为什么要这么做？
+算了，当我没说。你真是不可理喻。
 
-![[frieren20250926_064933.mp4]]
+> [!NOTE]-
+> ```
+> Mr. Stark, is there anything you'd like me to purchase for you?
+> 
+> Wait, what?
+> 
+> Today's your birthday, is it not?
+> 
+> Yeah, I guess it is. But what's that got to do with you buying me stuff?
+> 
+> Don't play dumb. I want to get you a present.
+> 
+> What? Why would you do that?
+> 
+> Just forget about it. You're insufferable.
+> ```
+> ![[frieren20250926_065051.mp4]]
+> 
 
+---
+
+A：所以，你好像有点不高兴，我哪里做错了吗？  
+B：该怎么开口呢？  
+A：求你告诉我，我该为什么事道歉。  
+B：不管我多狡猾，他都会察觉出不对劲。我还是直说好了。
+
+> [!NOTE]-
+> A: So, seems like you're kind of upset, what did I do wrong?
+> B: How to approach the subject? 
+> A: Please tell me what to applogize for.
+> B: No matter how sly I am, he'll know something's up. I should just be forward.
+> 
+> ![[frieren20250926_064933.mp4]]
+> 
 
 
