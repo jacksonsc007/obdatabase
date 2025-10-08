@@ -40,3 +40,6 @@ This is not a problem for sequential programs, but closing an already closed des
 
 To help us keep the different caches in the memory hierarchy straight, we will use the term SRAM cache to denote the L1, L2, and L3 cache memories between the CPU and main memory, and the term DRAM cache to denote the VM system’s cache that caches virtual pages in main memory.
 
+
+During these eight days, except for one lunchtime when I got back home after 1 p.m. and had instant noodles, all the meals were cooked by myself.
+这8天饭菜除了有一天中午回去已经1点多吃了泡面 都是自己做的
