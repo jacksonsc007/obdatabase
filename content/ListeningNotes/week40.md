@@ -36,3 +36,20 @@ The food war has returned normality in industries defined by high volumes and lo
 
 To make it back, fast food chains need to attract  a vast numbers of value-conscious and gdp-low income diamonds.
 > To make a buck, fast food chains need to attract vast numbers of value-conscious, typically low-income diners.
+
+
+# d3
+McDonald's, fearing that Burgerking and Wendy's ~~will~~ were eating in their lunch, introduced their dollar menus in 2002.
+
+Yet in recent years, rising incomes and surging inflation have given~~fast food joint reasoned supercised  prices~~.
+> Yet in recent years, rising incomes and surging inflation have given fast food joint a reason to supersize prices.
+
+
+The cost of a McDonald's meal has risen by 40% since 2019, compared with a 19% rise in consumer prices more broadly.
+
+This boosted the firms operating profits ~~into to marign,  and~~ they came in below expectations.
+> This boosted the firms operating profits until March, when they came in below expectations.
+
+McDonald's put the disappointing results down to consumer becoming more discriminating with every dollar.
+
+American households spent amost all of what they earn, and have made their way through savings built up during the 2019 covid pandemic.
