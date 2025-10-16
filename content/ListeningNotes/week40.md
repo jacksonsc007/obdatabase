@@ -53,3 +53,20 @@ This boosted the firms operating profits ~~into to marign,  and~~ they came in b
 McDonald's put the disappointing results down to consumer becoming more discriminating with every dollar.
 
 American households spent amost all of what they earn, and have made their way through savings built up during the 2019 covid pandemic.
+
+
+# d4
+In the face of slowing disposable income growth and ==robust but cooling== job market  , consumers are pulling back, and plan to dine out less often.
+>robust-but-cooling job market 
+
+
+Takeaways meals have been partly responsible for keeping the inflation rate above the federal's 2% target, with price growing by 4 % of the year by June, compared with 1% for groceries.
+
+Takeaways meals have been partly responsible for keeping the inflation rate above the federal's 2% target, with price growing by 4 % ==in the year to June==, compared with 1% for groceries.
+
+But that may be about to change. Although McDonald's  plans for its value offer to last about a month, the economists of the fast food industry have shifted. 
+
+Lower prices appear to be on the menu for good.
+
+
+
