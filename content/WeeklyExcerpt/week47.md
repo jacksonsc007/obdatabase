@@ -28,3 +28,10 @@ As Petra softly lowered the corners of her eyes, Rem’s breath ==involuntarily 
 
 
 Even if you don’t mean it like that, ==I’m just saying that’s how it’s going to end up. Okay?==  What Subaru wants you to do is not to punish yourself for it, but to accept the happiness that  you have been missing out on while you were asleep, Rem-neesama.
+
+
+The second reason is that fast for parallel hardware means that the programmer must divide an application so that each processor has roughly the same amount to do at the same time, and that the overhead of scheduling and coordination doesn’t ==fritter away== the potential performance benefits of parallelism.
+
+
+
+![[Pasted image 20251121071651.png]]
