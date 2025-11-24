@@ -6,3 +6,6 @@ the following quote was written before you could buy a computer, and ==it is as 
 The “simplicity of the equipment” is ==as valuable a consideration for today’s computers as it was== for those of the 1950s
 
 This top-down, step-by-step tutorial ==weaves the components== with their explanations, making the computer’s language more palatable.
+
+
+The majority of the damage in�icted by those disturbances was nothing so major that left  them wounded or pressed them to retreat from the war front, but rather, nasty tricks that just  kept them in a state of exhaustion. And whenever he would think along such lines, they would  be hit with an attack of the same class as the falling boulder that had been the �rst maneuver  used against them at the quarry, highlighting the underhandedness of the techniques which  did not allow them to relax their vigilance whatsoever.
