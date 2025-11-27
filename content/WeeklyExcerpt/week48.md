@@ -22,3 +22,25 @@ Aldebaran: It’s nothing but a bandaid fix. If I ever carelessly leave the old 
 
 Aldebaran: ...I know that I’m causing you a lot of trouble. Not only are you being endlessly harassed, but you even ended up clashing with the Sword Demon in the Royal Capital.  
 Yae: You’re mistaken. It’s not that I want to complain... No, in a sense, this might just very well  undoubtedly be a complaint though~.
+
+
+
+==It follows that== operations were added to programming languages and instruction set architectures to simplify, among other things, the packing and unpacking of bits into words. These instructions are called logical operations.
+由此可见，为了简化诸如将比特位打包和解包成字（word）等操作，编程语言和指令集架构中都增加了相应的运算功能。这些指令被称为**逻辑运算**。
+
+```
+#### 1. **It follows that...**
+
+- 意思是：“由此可见……”、“因此可以得出结论……”
+- 是一种**正式推理表达**，常用于学术或技术论述中
+- ✅ 类似表达：
+    - Therefore,...
+    - Thus,...
+    - As a result,...
+
+📌 使用场景：前文已经说明了某个问题（比如位操作复杂），这里引出解决方案。
+```
+
+
+
+These principles lead to the stored-program concept; its invention ==let the computing genie out of its bottle.== Figure 2.7 shows the power of the concept; 
