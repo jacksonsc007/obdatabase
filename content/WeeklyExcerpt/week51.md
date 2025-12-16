@@ -1,0 +1,1 @@
+The selection of a set of instructions that the machine can understand ==demands a delicate balance== among the number of instructions needed to execute a program, the number of clock cycles needed by an instruction, and the speed of the clock.
