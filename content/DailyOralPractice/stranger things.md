@@ -129,3 +129,44 @@
 
 
 [00:46:44.398](jv://jump?url=D:\movie\movies\strangerthings\s05\Stranger.Things.S05E04.1080p.WEB.h264-ETHEL.mkv&time=00:46:44.398&app=jump-video-pot-player)
+
+
+[00:08:13.763](jv://jump?url=D:\movie\movies\strangerthings\s05\Stranger.Things.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv&time=00:08:13.763&app=jump-video-pot-player)
+![[Pasted image 20251230213742.png]]
+
+
+![[Pasted image 20251230213858.png]]
+
+[00:09:43.799](jv://jump?url=D:\movie\movies\strangerthings\s05\Stranger.Things.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv&time=00:09:43.799&app=jump-video-pot-player)
+![[Pasted image 20251230214006.png]]
+
+
+[00:11:39.392](jv://jump?url=D:\movie\movies\strangerthings\s05\Stranger.Things.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv&time=00:11:39.392&app=jump-video-pot-player)
+![[Pasted image 20251230214257.png]]
+
+[00:11:59.402](jv://jump?url=D:\movie\movies\strangerthings\s05\Stranger.Things.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv&time=00:11:59.402&app=jump-video-pot-player)
+![[Pasted image 20251230214333.png]]
+
+![[Pasted image 20251230214417.png]]
+
+
+[00:13:50.518](jv://jump?url=D:\movie\movies\strangerthings\s05\Stranger.Things.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv&time=00:13:50.518&app=jump-video-pot-player)
+![[Pasted image 20251230214558.png]]
+
+
+[00:14:08.762](jv://jump?url=D:\movie\movies\strangerthings\s05\Stranger.Things.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv&time=00:14:08.762&app=jump-video-pot-player)
+
+
+![[Pasted image 20251230214724.png]]
+
+
+[00:14:53.232](jv://jump?url=D:\movie\movies\strangerthings\s05\Stranger.Things.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv&time=00:14:53.232&app=jump-video-pot-player)
+![[Pasted image 20251230214824.png]]
+
+
+[00:18:02.618](jv://jump?url=D:\movie\movies\strangerthings\s05\Stranger.Things.S05E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv&time=00:18:02.618&app=jump-video-pot-player)
+![[Pasted image 20251230215245.png]]
+![[Pasted image 20251230215255.png]]
+
+
+
