@@ -10,3 +10,13 @@ These benign control values are percolated forward at each clock cycle with the 
 
 
 The reasons are that control hazards are relatively simple to understand, they occur less frequently than data hazards, and ==there is nothing as effective against control hazards== as forwarding is against data hazards.
+
+To discard instructions, we merely change the original control values to 0s, ==much as we did== to stall for a load-use data hazard.
+
+The selector can operate similarly to a 1- or 2-bit predictor, ==favoring whichever== of the two predictors has been more accurate
+
+
+“A processor with imprecise exceptions might put 58hex into SEPC and ==leave it up to== the operating system to determine which instruction caused the problem.”
+
+
+There are two main ways to implement a multiple-issue processor, ==with the major difference being== the division of work between the compiler and the hardware.
