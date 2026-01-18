@@ -20,3 +20,12 @@ The selector can operate similarly to a 1- or 2-bit predictor, ==favoring whiche
 
 
 There are two main ways to implement a multiple-issue processor, ==with the major difference being== the division of work between the compiler and the hardware.
+
+
+“Launching multiple instructions per stage allows the instruction execution rate to exceed the clock rate or, stated alternatively, the CPI to be less than 1”
+
+
+
+So, any speculation mechanism must include both a method to check if the guess was right and a method to ==unroll or back out== the effects of the instructions that were executed speculatively.
+
+Another example is that we might speculate that a store that precedes a load does not ==refer to the same address==, which would allow the load to be executed before the store.”
