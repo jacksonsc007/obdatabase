@@ -37,3 +37,39 @@ Floating-point and SIMD operations add a two more pipeline stages to the instruc
 💡 设计思想：  
 把这些重操作集中到一条专用流水线中，避免阻塞其他轻量级运算
 ```
+
+
+
+All that Otto Suwen could do, ==was support someone else==.  ——And so, in that support, he would  wring out every drop of blood and energy in his body.
+
+And at the supportive expression of his loving dragon Frufoo, Otto bitterly chuckled.
+
+
+Fundamentally, Otto was moving separately from the rest of the Camp, and his means of  transportation was the being with whom he would speak to whenever push came to shove—in case his Divine Protection of the Soul of Language steeped him too deeply in the thoughts  of other living creatures and he had to avoid becoming unable to return, he made sure to always travel with at least Frufoo by his side.
+
+> 从根本上说，奥托是与营地其他人分开行动的，而他的交通工具，正是那个在关键时刻他会求助的对象。为了避免自己的“语言之魂神圣庇护”让他过于深入其他生灵的思想之中，从而无法返回现实，他确保身边至少始终有弗鲁福相伴同行。
+
+```
+If push comes to shove, if you should lose your case in the court, what will you do?.
+如果情况不妙，法庭上败诉，你会怎么办？
+
+When push comes to shove, you are on your own.
+如果形势糟糕，你就只能靠自己了。
+```
+
+
+“Treating this situation as a time for reaping pro�ts, your bad habit is slipping out, laddie.”
+
+Still, that he had not lost sight of Aldebaran’s group, and he had been able to continue chasing  them without loosening his grip, was due to the great power of the Zodda bugs. Most animals  were frightened by the presence of the Divine Dragon that accompanied them, and no matter  how earnestly he begged them, they refused to go beyond a certain point.
+
+
+Frufoo: If you’re too supportive of the Zodda bugs, Miss Frederica, Miss Petra, and the others will  be even more grossed out.
+
+
+Just then, caressing Otto’s ear, was a voice that did not belong to the insects, nor the small  animals, nor Frufoo. Immediately after he gasped, Otto’s body suddenly shot into the air.
+
+Frufoo’s cries were in vain, as Otto was hanging from one of the trees on the mountain, kicking his legs as his hands and neck were constricted by something that felt thin.
+
+Just barely, he had managed to get his �ngers in front of his neck and escaped being asphyxiated――,
+千钧一发之际，他勉强将手指挡在了脖子前，逃过了一劫——没有被窒息而死。
+**Just barely**：仅仅勉强地 / 差一点就没做到
