@@ -73,3 +73,15 @@ Frufoo’s cries were in vain, as Otto was hanging from one of the trees on the 
 Just barely, he had managed to get his �ngers in front of his neck and escaped being asphyxiated――,
 千钧一发之际，他勉强将手指挡在了脖子前，逃过了一劫——没有被窒息而死。
 **Just barely**：仅仅勉强地 / 差一点就没做到
+
+
+When she had spoken those words, he did not know what sort of emotions or expectations she  had ==harbored==.
+
+==His own position was that of== controlling her through fear, binding her with hatred, and utilizing  the guarantee of her desires for revenge. From her perspective, it ought to have been satisfying  to see him so cornered.
+> 他自己的立场是：通过恐惧控制她，用仇恨束缚她，并利用她对复仇欲望的执念作为保障。而从她的角度来看，看到他陷入如此绝境，本应感到满足才对。
+
+Only, the fact of the matter was that she had given many reactions that were not coherent with  that line of thought.
+
+
+Though not deliberately self-imposed, it had been an subconsciously placed shackle, inhibitor,  hurdle―― psychological chains that had slammed the brakes on the overpowering quality of  Aldebaran’s Authority.
+> 尽管并非有意自我施加，但它却是一种潜意识中设置的枷锁、抑制器、障碍——这些心理链条猛然踩下了刹车，遏制了阿尔德巴兰权威那压倒性的力量。
