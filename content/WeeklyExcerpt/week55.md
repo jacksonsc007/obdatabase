@@ -14,3 +14,11 @@ This example serves both to illustrate an important technique as well as to moti
 
 
 In our example, we made many such changes, which to us, as human beings, were obviously allowable. In practice, this process must be performed in a methodical fashion either by a compiler or by hardware.
+
+
+As we will see, the advantages of dynamic scheduling ==are gained at== the cost of a significant increase in hardware complexity.
+
+
+If there are multiple functional units, these units could ==lie idle==.
+
+“Dynamic scheduling with out-of-order completion must preserve exception behavior in the sense that exactly those exceptions that would arise if the program were executed in strict program order actually do arise.” (Hennessy, p. 194)
