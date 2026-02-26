@@ -5,3 +5,6 @@ Support for speculative memory references can help overcome the conservatism of 
 
 
 Because attempts to cover long memory stalls with more ILP have limited effectiveness, it is natural to ask whether other forms of parallelism in an application could be used to hide memory delays.
+
+
+The third variation on SIMD comes from the graphics accelerator community, offering higher potential performance ==than is found== in traditional multicore computers today.
