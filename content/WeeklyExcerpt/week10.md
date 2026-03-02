@@ -1,0 +1,1 @@
+We believe the GPU learning curve is steep. “We hope that this two-step approach gets you up that curve quicker, even if it’s a bit indirect.”
