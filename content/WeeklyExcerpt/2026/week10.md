@@ -15,3 +15,6 @@ To cope, the GPU’s memory controller maintains separate queues of traffic ==bo
     
 - **opening a row**：DRAM 操作术语——“打开一行”（activate a row），后续才能读写该行内数据。
 ```
+
+
+Although arithmetic with unlimited range and precision is associative, computer arithmetic is not associative, ==for either== integer arithmetic, because of limited range, ==or== floating-point arithmetic, because of both range and precision.
