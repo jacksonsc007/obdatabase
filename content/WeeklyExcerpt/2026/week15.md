@@ -46,14 +46,14 @@
 The most popular RISC processors come from ARM (Advanced RISC Machine), which were in 14.8 billion chips shipped in 2015, or roughly 50 times as many chips that shipped with 80x86 processors.
 
 
-“Instead of saying multiprocessor microprocessor, the term multicore caught on.”
+“Instead of saying multiprocessor microprocessor, the term multicore ==caught on==.”
 
 Given that virtually all chips have multiple processors, the term central processing unit, or CPU, is fading in popularity.
 
 
 Capacity is generally more important than performance for memory and disks, so capacity has improved more, yet bandwidth advances of 400–2400 are still much greater than gains in latency of 8–9 . 
 
-Clearly, bandwidth has outpaced latency across these technologies and will likely continue to do so.
+Clearly, bandwidth has ==outpaced== latency across these technologies and will likely continue to do so.
 
 
 as such
